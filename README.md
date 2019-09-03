@@ -16,27 +16,27 @@ REST API for scrapping data (text and images) from websites.
 ## Pages
 create new url record in db
 
-curl -d "url=<url page e.g. http://wyborcza.pl>" -X POST http://localhost:8000/api/pages/
+curl -d "url=UrlPageE.G.http://wyborcza.pl" -X POST http://localhost:8000/api/pages/
 
 check details about this url in db
 
-curl -X GET http://localhost:8000/api/pages/ <pageid> /
+curl -X GET http://localhost:8000/api/pages/PAGEID/
 
 ## Text scraper
 start process of scrapping text from url
 
-curl -X POST http://localhost:8000/api/textscraper/?urlid=<pageid>
+curl -X POST http://localhost:8000/api/textscraper/?urlid=PAGEID
 
 get data scrapped from page
 
-curl -X GET http://localhost:8000/api/textscraper/<pageid>/
+curl -X GET http://localhost:8000/api/textscraper/PAGEID/
 
 ## Image scraper
 start process of scrapping imgs from url
 
-curl -X POST http://localhost:8000/api/imgscraper/?urlid=<pageid>
+curl -X POST http://localhost:8000/api/imgscraper/?urlid=PAGEID
 
 get imgs scrapped from page
 
-curl -X GET http://localhost:8000/api/imgscraper/<pageid>/
+curl -X GET http://localhost:8000/api/imgscraper/PAGEID/
 
