@@ -1,0 +1,689 @@
+stylesModule v1.1
+chartbeatHeadModule v1.0
+14142993, [ null ], aggregatorModule
+IBA Analytics
+20180116
+eyeoH
+eyeoHeadScripts 1.0
+/eyeoH
+v3.0
+v3.0 adapter gazetawyborcza /gazetawyborcza
+14142983, [ /tpl/ads/prod/dfpHeader.jsp ], dfpBanersHeaderBean
+pattern#ms - HP - app38:tomcat-wyborcza: - 30 - 3801017 - s3800000_P20_wyb_HP_2019_desk.jsp - LegoIndex v1.0
+poczatek kontentu
+WyborczaSVG version: 17.0.34 compiled: 2019-07-04 11:41:07
+svgModule v1.0.4
+ABTShieldNoScriptModule
+14142975, [ null ], aggregatorModule
+czapeczka
+x16 capParams: pl.com.agora.squid.portal2.dto.CapParameters@4297e1ca[active=false,inProgress=false,validUntil=<null>,validPeriod=<null>,recurring=false,paymentUnfinished=false,unfinishedOrderId=<null>,offerId=<null>,lastPayment=<null>,inProgressOrderId=<null>,consentOrderId=<null>,defaultSalesProductId=true,capVisible=false,email=<null>,emailHash=<null>,emailSHA256Hash=<null>,marketingMessage=<null>,loginChannel=<null>,loginMode=<null>,nick=<null>,nickConfirmationPending=false,loggedIn=false,loggedInSoft=false]
+Wyborcza.pl
+Wyborcza.pl
+Nasze serwisy
+Dzisiejsze wydanie papierowe
+Magazyny
+Duży Format
+Magazyn Świąteczny
+Ale Historia
+Tylko Zdrowie
+Książki. Magazyn do czytania
+Osiem Dziewięć
+Opiekun
+Wyborcza.biz
+Wyborcza.Tech
+Wyborcza Classic
+Więcej Świata
+Witamy w Polsce
+BIQdata
+Sonar
+Wysokie Obcasy
+Co Jest Grane 24
+Magazyn Kuchnia
+Gazeta.pl
+Wiadomości
+Festiwal Lato z Radiem
+Wybuch samochodu na Bemowie
+GUS: PKB
+Awaria w oczyszczalni Czajka
+Ołeksij Honczaruk
+Olsztyn: wypadek autobusu
+Awaria w oczyszczalni Czajka: Czy można pić kranówkę?
+Awaria w oczyszczalni Czajka
+Pogoda w piątek, 30 sierpnia 2019 r.
+30 sierpnia
+Serwisy lokalne
+Białystok
+Bielsko-Biała
+Bydgoszcz
+Częstochowa
+Gliwice
+Gorzów Wielkopolski
+Katowice
+Kielce
+Kraków
+Lublin
+Łódź
+Olsztyn
+Opole
+Płock
+Poznań
+Radom
+Rzeszów
+Sosnowiec
+Szczecin
+Toruń
+Trójmiasto
+Warszawa
+Wrocław
+Zielona Góra
+Inne serwisy
+Tok FM
+Next
+Dziecko
+Zdrowie
+Blogi
+Pogoda
+Sport
+Podróże
+Forum
+Forum
+Wypróbuj od 19,90 zł
+Kup teraz
+squidCapBean v1.3
+14142991, [ /fix/modules/wyborcza/cap/cap.jsp ], squidCapBean
+domain-marketing-module v1.3
+14142971, [ /fix/modules/wyborcza/portal/domainMarketingModule.jsp ], domainMarketingModule
+zamienic na modul - w przyszlosci polaczone z czapeczka
+Dzisiejsze wydanie papierowe
+Kraj
+Świat
+Miasta
+Białystok
+Bielsko-Biała
+Bydgoszcz
+Częstochowa
+Gliwice
+Gorzów Wlkp.
+Katowice
+Kielce
+Kraków
+Lublin
+Łódź
+Olsztyn
+Opole
+Płock
+Poznań
+Radom
+Rzeszów
+Sosnowiec
+Szczecin
+Toruń
+Trójmiasto
+Warszawa
+Wrocław
+Zielona Góra
+Opinie
+Gospodarka
+Nauka
+Tech
+Kultura
+Informacje kulturalne
+Film
+Muzyka
+Książki
+Teatr
+Sztuka i architektura
+Telewizyjna
+Sport
+Classic
+Magazyny
+Ale Historia
+Duży Format
+Magazyn Świąteczny
+Książki
+Przyszłość jest teraz
+Opiekun
+Nasza Europa
+Tylko Zdrowie
+Wideo
+WO
+CJG24
+Prenumerata
+Więcej
+BIQdata
+Sonar
+Jutronauci
+Pieniądze Ekstra
+Przedsiębiorca Roku
+Wyborcza.biz
+Witamy w Polsce
+Centrum Premier
+Wyborcza na żywo
+Edukacja
+Wędrówki po Szwajcarii
+Akcje społeczne
+DługoWIECZNI
+Innowacje
+Matematyka się liczy
+Po stronie klienta
+Pracownia miast
+Projekt: praca
+Szkoła z Klasą
+Andrzej Rysuje
+Listy
+Poradniki
+Zdjęcia
+Nekrologi
+Komunikaty
+Archiwum
+Nowe
+Premier Mateusz Morawiecki: Reforma szkolnictwa jest na zakręcie
+Tylko u nas
+Justyna Suchecka:
+To jest ten dzień. Zgadzam się z premierem Mateuszem Morawieckim
+Nowe
+Nagłe odwołanie początku roku szkolnego. Powód: brak budynku
+Węgierscy uczniowie szykują się do strajku. Nie chcą forsowanej przez rząd Orbana reformy edukacji
+ADS
+REKLAMA
+Wiadomości
+Gospodarka
+Droższy prąd, czynsze, wywóz śmieci. Samorządy bez wyjścia - będą drastyczne podwyżki
+Nowe
+Amerykanie dogadują się z talibami. Powraca "Islamski Emirat Afganistanu"?
+Kraj
+Wielka miłość z USA. Pence obiecuje wizy i więcej żołnierzy
+Technololgie
+Polska firma Brand24 zablokowana przez Facebooka
+Poznań
+Nie żyje Andrzej Białas. Urzędnik, który postawił się politykom PiS
+Adam Michnik
+Sense of humor Mike'a Pence'a
+Nowe
+Eliza Michalik
+Prawdę o politykach mówią ich czyny, nie słowa
+Nowe
+"Dorian" zabił pięć osób i zniszczył kilkanaście tysięcy budynków
+Łódź
+"Wypieprzaj do Izraela"? Protest na Piotrkowskiej pod Pijalnią Wódki i Piwa
+Wideo "Gazety Wyborczej"
+Izrael ma szczególne powody, by być zaproszonym - Kwaśniewski o nieobecnych 1 września
+Nowe
+Andrzej Rychard
+Czy PiS zniszczy sam siebie? Kiepski bilans 4 lat "dobrej zmiany"
+Kraj
+Znikające rozmowy wiceministra Piebiaka z hejterką od sędziów "małą Emi"
+Nowe
+Zarabia najniższą krajową. Ma niespłaconą chwilówkę, ale komornik zajmie pensję żony
+Warszawa
+Byliśmy w tunelu kolektora pod Wisłą. Coraz bliżej poznania przyczyny awarii
+Nowe
+Ksiądz Kneblewski kontratakuje: Będę rozwijał medialne duszpasterstwo
+Trójmiasto
+Gdańsk ma radnego - Lecha Wałęsę. Zięć byłego prezydenta zmienił nazwisko
+WIDEO
+Najnowsze
+08:00
+Kadra siatkarek młodością silna. Medal ME coraz bliżej
+07:30
+Ks. Kneblewski kontratakuje: Będę rozwijał medialne duszpasterstwo
+07:12
+Nagłe odwołanie początku roku szkolnego. Powód: brak budynku
+06:52
+Pięć ofiar huraganu "Dorian" na Bahamach
+więcej
+Opinie
+Wojciech Dragan:
+Ludzkie zachowania nie są "wrodzone". Homoseksualność także
+Andrzej Wielowieyski:
+Polska szkoła po deformie: hodowla dumnych i bezmyślnych cieląt
+Magdalena Środa:
+Jak nie tracić czasu na naukę rzeczy bezużytecznych
+Wasze listy, interwencje
+Joanna de Vincenz:
+Było mi nieswojo, kiedy widziałam zaciśniętą pięść kibica z Jagiellońskiej Emigracji i słyszałam okrzyk: "Polska to my, to my, to my!"
+Stanisław Brejdygant:
+Hańba Kościoła. List otwarty do katolików w Polsce, którzy wciąż są chrześcijanami
+Wyborcza to Wy!
+Piszcie listy, opinie, historie, uwagi: listy@wyborcza.pl
+REKLAMA
+ADS
+REKLAMA
+Magazyny
+Nowe
+Ogród deszczowy w centrum Gdańska. Dołoży się do niego prywatna firma
+Nowe
+Biznes byłego piłkarza GKS Katowice. Piłkarska wersja Booking.com
+Wysokie Obcasy
+Gwałt na randce. Wzrasta liczba ofiar zgwałconych przez sprawców poznanych przez aplikacje do randkowania
+Nowe
+Cydr jest naszą szansą na miarę hiszpańskiej szynki czy serów i win francuskich
+Nowe
+Jak zdobyć zawód mediatora? I czy to się opłaca?
+komentarz
+Wysokie Obcasy
+"Sama? Dlaczego? Nie masz z kim jechać?" Każdej młodej kobiecie poradziłabym samotną podróż
+Nowe
+Psycholog społeczny: Pokolenie smartfona najbardziej bojaźliwe w historii, unika nawet seksu
+Wyborcza classic
+Gdy patrzyła na wieżowiec, widziała lecących z okien ludzi. To się zaczęło po śmierci syna
+Polecamy
+wywiad
+Świat
+Sadiq Khan dla "Wyborczej": Wierzę w praworządność i trójpodział władzy
+Magazyn Kuchnia
+Czas na przetwory. Podpowiadamy, co i kiedy zamykać w słoiku
+Wideo
+Jutronauci
+Czy selfie uratuje świat? Albo uczyni nasze życie szczęśliwszym?
+Kursy online
+Poznaj tajniki zawodu pisarza. Napisz książkę z Karoliną Sulej i Sylwią Chutnik
+Materiał promocyjny partnera
+Odkryj sposób na piękną skórę przez cały rok. Misja: nawilżenie
+REKLAMA
+REKLAMA
+Wysokie Obcasy
+Społeczeństwo
+Wzrasta liczba zgwałconych przez sprawców poznanych przez aplikacje do randkowania
+Fragment książki
+Spodziewała się dziecka, więc trafiła do szpitala. Nie miała pojęcia, że to oddział Mengelego
+wywiad
+Katarzyna Miller
+Nieważne, czy mój facet zdradził mnie z jedną, czy z trzema
+komentarz
+Felietony
+Arcybiskup ogłasza: koniec z łaskotaniem dzieci przez księży
+wywiad
+Zdrowie
+Insulinooporność. Dla chorej osoby dieta i sport to za mało, by schudnąć
+Lady Gaga stworzyła kosmetyki, Zoë Kravitz szmince dała imię psa, nazwa marki Millie Bobby Brown to imię jej prababci
+Rzucanie palenia a odchudzanie. Co zrobić, żeby po odstawieniu papierosów nie przytyć?
+Podporządkowany Jaś raczej nie wyrośnie na asertywnego Jana. Relacje z dziećmi to nie pole bitwy
+"Rano wycieram pupy, po południu dorabiam w supermarkecie". Dodatek za wychowawstwo nie dla nauczycielek z przedszkoli
+więcej
+Strefa oglądania
+Wideo
+Justyna Dobrosz-Oracz
+Wiceprezydent USA dziękuje Dudzie "za wzmocnienie rządów prawa"
+Wideo
+Dorota Wysocka-Schnepf
+Izrael ma szczególne powody, by być zaproszonym - Kwaśniewski o nieobecnych na rocznicy wybuchu wojny
+Wideo
+Justyna Dobrosz-Oracz
+Dlaczego nie ma dymisji Zbigniewa Ziobry? Reakcja prezesa PiS
+Wideo
+Jutronauci
+Poznaj zaklinaczkę miast. Jak nauka i zdjęcia z Instagrama przekształcają zaniedbane miejsca
+Wideo
+Jutronauci
+Startuje trzecia edycja programu Jutronauci. Poznaj ludzi, którzy zmienią świat
+REKLAMA
+Gospodarka
+Gospodarka
+Alarm dla budowlańców i sadowników. Co czwarty Ukrainiec może wyjechać z Polski
+Gospodarka
+Argentyna ratuje peso. Do wymiany pieniędzy potrzebna zgoda banku centralnego
+Finanse osobiste
+Zachorowałeś lub miałeś wypadek? Komu się należy zasiłek lub renta wyrównawcza?
+Gospodarka
+W 2018 roku po raz pierwszy wypiliśmy po 100 litrów piwa. Jemy też coraz więcej jajek i dużo, dużo więcej cukru
+Gospodarka
+Volkswagen zapłaci Amerykanom za fałszowanie danych o zużyciu paliwa
+"Wzrost gospodarczy? Nie słyszałem" - Polacy nie odczuwają koniunktury, za to inflację jak najbardziej
+Kto ma rację w przypadku luki VAT? Czy PiS chce w ten sposób pozbyć się z polityki Donalda Tuska?
+"Opóźnienia w remontach na kolei są tak duże, że bez niej wyrosło już jedno pokolenie" [WYWIAD]
+Ukraińcy najwięcej używanych aut ściągają z Niemiec. Polska na trzeciej pozycji
+Opłata recyklingowa już nie wycieknie? Sklepy nie zarobią już tyle na grubszych foliówkach
+Za oszukiwanie seniorów zapłacą ponad milion kary
+więcej
+Kultura
+Książki
+Światowa premiera opowiadania Zadie Smith. Akcja rozgrywa się w Sopocie
+Nagroda Literacka "Gdynia"
+Nagroda dla tych, które "opierają się porywczym mocom dziczejącego świata"
+Festiwal Filmowy w Wenecji
+Kłótnia o Romana Polańskiego. Światowa premiera "Oficera i szpiega"
+Festiwal Filmowy w Wenecji
+Scarlett Johansson, Brad Pitt i Joaquin Phoenix w trzech świetnych filmach w Wenecji
+Książki
+Podręczniki nie z tej ziemi, czyli książki, które uczą. Co wybrać? Oto nasze propozycje
+Wenecja 2019. "Boże Ciało" nie jest filmem o Bogu. Raczej o dobru i potrzebie duchowego przywództwa
+Radna PiS nie zgadza się na promowanie poety Rafała Wojaczka. "Alkohol, narkotyki, samobójstwo"
+Dawid Podsiadło w piekle mediów społecznościowych. Nowy teledysk artysty
+Depardieu zagra Breżniewa. Był już Stalinem i Rasputinem
+80. rocznica II wojny światowej i 50 poświęconych jej filmów. Interaktywny przegląd Jacka Szczerby
+Dwayne Johnson - pokaźna sylwetka króla Midasa kina akcji
+więcej
+REKLAMA
+Sport
+Piłka nożna
+El. Euro 2020. Brzęczek stopniowo rezygnuje z piłkarzy tak zwanej ekstraklasy
+Tenis
+Novak Djoković odpadł z US Open. Szansa dla Rogera Federera
+Piłka nożna
+Rafał Stec: Tajny plan Legii, czyli komediodramat w ekstraklasie
+Siatkówka
+Polskie siatkarki w ćwierćfinale mistrzostw Europy
+komentarz
+Felieton
+Wojciech Kuczok: Łazarz wyszedł z grobu i wpakował się pod ciężarówkę
+Kadra siatkarek młodością silna. Medal ME coraz bliżej
+US Open. Naomi Osaka nie obroni tytułu. Kto zadebiutuje w finale?
+Hiszpan Nando nowym piłkarzem Arki Gdynia
+Lechia Gdańsk przeprowadziła transfer last minute. Jaroslav Mihalik wypożyczony z Cracovii
+Mistrzostwa świata w koszykówce Chiny 2019. Niezwykły dreszczowiec i wielkie zwycięstwo Polaków!
+Trzykrotna medalistka olimpijska urodziła dziecko. I już wróciła na podium
+więcej
+REKLAMA
+polecamy
+Akademia opowieści
+Macademian Girl: Mówił, że zajdę daleko, ale show-biznes chętnie mnie zmieli
+Duży Format
+Właściciele potrafią komentować: "Co tak długo? Poprzedni zdechł szybciej"
+Głuchowski
+Jankowskiemu po raz kolejny by się upiekło. Ale zdecydował kompletny przypadek
+Materiał promocyjny partnera
+Volkswagen Business Care - wygodne rozwiązania dla floty biznesowej
+Materiał promocyjny partnera
+Recykling ma znaczenie. Jak segregować śmieci?
+Kraj
+Premier Mateusz Morawiecki: "Reforma szkolnictwa jest na zakręcie"
+Ludzie Ziobry wiedzieli o hejcie na sędziów i nic z tym nie robili
+To jest ten dzień: zgadzam się z premierem Mateuszem Morawieckim
+Świat
+Pięć ofiar huraganu "Dorian" na Bahamach
+Amerykanie dogadują się z talibami. Powraca "Islamski Emirat Afganistanu"?
+Węgierscy uczniowie szykują się do strajku. Nie chcą forsowanej przez rząd Orbana reformy edukacji
+Gospodarka
+"Wzrost gospodarczy? Nie słyszałem" - Polacy nie odczuwają koniunktury, za to inflację jak najbardziej
+Kto ma rację w przypadku luki VAT? Czy PiS chce w ten sposób pozbyć się z polityki Donalda Tuska?
+"Opóźnienia w remontach na kolei są tak duże, że bez niej wyrosło już jedno pokolenie" [WYWIAD]
+Opinie
+Prawdę o politykach mówią ich czyny, nie słowa
+Czy PiS zniszczy sam siebie? Kiepski bilans 4 lat "dobrej zmiany"
+Sense of humor Mike'a Pence'a
+Nauka
+Dr hab. Wojciech Dragan: Żadne z ludzkich zachowań nie jest wrodzone czy nabyte. Homoseksualność także
+Homoseksualność: wrodzona czy nabyta? "Science" publikuje wyniki dużego badania
+7 rzeczy, których nie wiedzieliśmy tydzień temu
+Kultura
+Radna PiS nie zgadza się na promowanie poety Rafała Wojaczka. "Alkohol, narkotyki, samobójstwo"
+Studio TOR zamknięte. Tu powstały klasyki polskiego kina
+Nagie ciało Jude'a Law vs Anthony Hopkins jako Benedykt XVI. Są zwiastuny "Nowego papieża" i "Dwóch papieży"
+Telewizja
+80. rocznica II wojny światowej i 50 poświęconych jej filmów. Interaktywny przegląd Jacka Szczerby
+Dwayne Johnson - pokaźna sylwetka króla Midasa kina akcji
+"Kurier" Pasikowskiego i 25 filmów na 80. rocznicę II wojny światowej [Program TV]
+Listy czytelników
+Redaktor Katka pisze o WORD-ach, co chce [polemika]
+Było mi nieswojo, kiedy widziałam zaciśniętą pięść kibica z Jagiellońskiej Emigracji i słyszałam okrzyk: "Polska to my, to my, to my!"
+Nie jest za późno na wycofanie patronatu prezydenta RP nad świętem Brygady Świętokrzyskiej
+Zdjęcia
+14 zdjęć, które nas zachwyciły w tym tygodniu
+Amazonia płonie
+14 zdjęć, które nas zachwyciły w tym tygodniu
+Wideo
+Partnerstwo Warszawy i Londynu po brexicie - konferencja Rafała Trzaskowskiego i Sadiqa Khana
+Izrael ma szczególne powody, by być zaproszonym - Kwaśniewski o nieobecnych na rocznicy wybuchu wojny
+Wiceprezydent USA: Polska wkrótce dołączy do programu bezwizowego
+Duży Format
+"Piłsudski". Magdalena Biedrzycka, kostiumografka: Jak pokazałam reżyserowi zdjęcie Marszałka w meloniku, to spadł z krzesła
+Hejtowani sędziowie boją się zmasowanych ataków: Nasze zdjęcia trafiały do KastaWatch z podpisem: "To będą nasze następne cele"
+Lubię patrzeć, jak mój chłopak jest z inną, czyli seks grupowy w wielkim mieście
+Magazyn Świąteczny
+Łukasz Ługowski: Maturę i oceny z zachowania trzeba zlikwidować. Marzy mi się zburzenie całego systemu edukacyjnego do korzeni
+YouTube może być sprzymierzeńcem edukacji. Podpowiadamy, jakich kanałów szukać
+Mały Brytyjczyk na lekcji historii ma zrozumieć przeszłość. Mały Polak uczy się o wojennych dokonaniach mężczyzn katolików
+Ale Historia
+3 września. Pierwsza komora Auschwitz. Zginęli w niej sowieccy jeńcy i Polacy [KALENDARIUM]
+Piłsudczycy byli pewni: Maria Juszkiewiczowa dała kosza Dmowskiemu, a wybrała Piłsudskiego
+Przebiegły manewr Hitlera. Jak III Rzesza rozgrywała Brytyjczyków
+Tylko Zdrowie
+Pogoda we wtorek 3 września 2019 r.
+Pogoda w poniedziałek 2 września 2019 r.
+Pogoda w weekend 30 sierpnia i 1 września 2019 r. Będzie upał
+Nasza Europa
+Euromit: Czy ambitne wysiłki Unii na rzecz środowiska są bez sensu, bo i tak są "marnowane" przez resztę świata?
+Teka dla polskiego komisarza. Rolnictwo pocieszenia
+Kulturalnie polecamy: Obrazkowa rewolucja Neurathów
+Wysokie Obcasy
+W prestiżowym liceum dyrektorką została katechetka. Nie posłałam tam syna
+Lady Gaga stworzyła kosmetyki, Zoë Kravitz szmince dała imię psa, nazwa marki Millie Bobby Brown to imię jej prababci
+Rzucanie palenia a odchudzanie. Co zrobić, żeby po odstawieniu papierosów nie przytyć?
+REKLAMA
+Nekrologi
++ nadaj nekrolog
+Zmarł prof. Bronisław Ziemianin
+nasz najukochańszy Tata i Dziadek
+Rodzina
+więcej »
+Tomaszowi
+wyrazy współczucia z powodu śmierci Mamy
+składają przyjaciele z PMC
+więcej »
+Dla Justyny Zandberg-Malec
+serdeczne kondolencje z powodu straty Ojca
+składają koleżanki i koledzy z kancelarii Wardyński i Wspolnicy
+więcej »
+Zmarła Krystyna Zawilska
+wyrazy współczucia Rodzinie
+składają Członkowie Grupy ds. Hemostazy Polskiego Towarzystwa Hematologów i Transfuzjologów
+więcej »
+Piotruś,
+Wiele razem przeszliśmy...
+Paweł i Ania Stawińscy
+więcej »
+Piotrek,
+Zostawiłeś pustkę tak wielką,
+Asia i Jarek Gajewscy
+więcej »
+Żegnamy Piotra Woźniaka-Staraka
+składamy wyrazy współczucia Rodzinie
+i Przyjaciołom z Watchout Studio - Zespół NEXT FILM
+więcej »
+Zmarła Krystyna Zawilska
+wyrazy współczucia Rodzinie i Bliskim
+składają Pracownicy firmy Roche Polska
+więcej »
+Żegnamy ukochanego Piotra
+Łączymy się z Rodziną w tym ogromnym bólu
+Wojciech Fibak z rodziną
+więcej »
+Żegnamy Piotra Woźniaka-Staraka
+Rodzicom, Agnieszce, Julii i Patrykowi
+wyrazy współczucia i otuchy - Waldek, Marta i Sambor
+więcej »
+Panu Jerzemu Starakowi
+wyrazy głębokiego żalu z powodu śmierci Syna
+składają członkowie Polskiego Związku Pracodawców Przemysłu Farmaceutycznego
+więcej »
+Panu Jerzemu Starakowi
+wyrazy współczucia z powodu śmierci Syna
+składa Dyrekcja oraz pracownicy CEDC International i Grupy ROUST
+więcej »
+P.W.S.
+Jesteś miłością mojego życia. Na zawsze.
+Żegnaj Kochanie i daj mi proszę siłę, żebym mogła to przetrwać. Tylko Twoja A.W.S.
+więcej »
+Żegnamy Piotra Woźniak-Staraka
+Rodzinie i Najbliższym wyrazy współczucia
+składa Rada Nadzorcza, Zarząd wraz z pracownikami Grupy Polpharma
+więcej »
+Kochani Aniu, Jurku i Julciu
+wraz z odejściem Piotrusia
+straciliśmy kawałek naszego cudownego świata - Małgosia, Piotr Adaś, Kacper i Magda
+więcej »
+Odszedł Piotr Woźniak-Starak
+łączymy się w bólu z Anią, Jerzym,
+Rodziną i Najbliższymi - Violetta i Ryszard W. Varisella
+więcej »
+Jurkowi i Ani Woźniak
+wyrazy współczucia z powodu odejścia Syna
+składa Jan Borowski z rodziną
+więcej »
+Żegnamy Piotra Woźniaka Staraka
+Rodzinie i Bliskim wyrazy współczucia
+składają Aldona, Marco, Bruno, Charlotte
+więcej »
+Annie Woźniak-Starak  i Jerzemu Starakowi
+wyrazy współczucia z powodu śmireci Syna
+składają Teresa i Andrzej Starmachowie
+więcej »
+Rodzinie Jerzego Wiśniewskiego
+wyrazy współczucia
+składają Dyrekcja WOK Alicja Węgorzewska-Whiskerd,Danuta Bodzek, Agnieszka Tyrańska
+więcej »
+Kai i Marii Stępkowskim
+wyrazy współczucia po stracie Mamy
+składają Koleżanki i Koledzy z Instytutu Teatralnego im. Zbigniewa Raszewskiego
+więcej »
+Zmarł Piotr Woźniak-Starak
+wyrazy współczucia Rodzinie, Najbliższym
+składa Jarosław Suchan dyrektor Muzeum Sztuki w Łodzi wraz z zespołem
+więcej »
+Żegnamy Piotra Woźniaka-Staraka
+Słowa wsparcia, wyrazy głębokiego żalu
+Annie Woźniak-Starak i Jerzemu Starakowi składają Dominika i Łukasz Wejchert
+więcej »
+Żegnaj Piotrze....
+Z wyrazami współczucia dla Rodziny
+Zbigniew Jakubas
+więcej »
+Zmarł inż. Ryszard Jasiński
+Absolwent Politechniki Śląskiej rocznik 1957
+córki z rodzinami
+więcej »
+Rodzinie i Najbliższym
+Piotra Woźniaka-Staraka
+wyrazy głębokiego współczucia składa Zarząd EGIS Polska Sp. z o.o.
+więcej »
+Annie i Jerzemu Starakom
+Żonie oraz Najbliższej Rodzinie
+wyrazy współczucia składa Zarząd i Pracownicy Perst Investments
+więcej »
+Żegnamy Piotra Woźniaka-Staraka
+wyrazy głębokiego współczucia Rodzicom
+składa Zarząd i Pracownicy Finetech Construction
+więcej »
+Żegnamy Piotra Woźniaka-Staraka
+wyrazy żalu i współczucia Rodzinie
+składają Magdalena i Grzegorz Jankilevitsch oraz pracownicy Wydawnictwa Zwierciadło
+więcej »
+Annie i Jerzemu Starakom
+wyrazy współczucia z powodu śmierci Piotra
+składają Małgorzata Nawrocka i Zygmunt Solorz
+więcej »
+Żegnaj Piotrusiu
+Aniu, Julciu, Agnieszko i Jurku
+nasze myśli i serca są cały czas z Wami Iwona z Alexem i Mikołajem, Jarek z Kacprem
+więcej »
+Zmarł Profesor
+Michał Jan Rozbicki
+wybitny amerykanista, historyk i kulturoznawca
+więcej »
+Mai Stankowskiej i Rodzinie
+z powodu śmierci Mamy
+Rada Nadzorcza, Zarząd oraz pracownicy Getin Noble Bank S.A.
+więcej »
+Wyborcza.pl
+Wyborcza.pl
+Kraj
+Świat
+Opinie
+Gospodarka
+Nauka
+Technologia
+Kultura
+Sport
+Wideo
+The Wall Street Journal
+Witamy w Polsce
+Wyborcza Classic
+Wyborcza.biz
+Aktualności
+Giełda
+Wymiana walut
+Zakupy i finanse
+ZUS i emerytury
+Podatki
+Praca
+Motoryzacja i podróże
+Nieruchomości
+Serwisy lokalne
+Białystok
+Bielsko-Biała
+Bydgoszcz
+Częstochowa
+Gliwice
+Gorzów Wlkp.
+Katowice
+Kielce
+Kraków
+Lublin
+Łódź
+Olsztyn
+Opole
+Płock
+Poznań
+Radom
+Rzeszów
+Sosnowiec
+Szczecin
+Toruń
+Trójmiasto
+Warszawa
+Wrocław
+Zielona Góra
+Wysokieobcasy.pl
+Najnowsze
+Głosy Kobiet
+Psychologia
+Wasze listy
+Portrety Kobiet
+Psychologia
+Nowy Numer
+Wysokie Obcasy Extra
+Zdrowie i Uroda
+Jedzenie
+IT Girls
+Magazyny
+Duży Format
+Magazyn Świąteczny
+Ale Historia
+Tylko zdrowie
+Telewizyjna
+Książki
+Osiem Dziewięć
+Poradniki
+Więcej
+BIQdata.pl
+Archiwum
+Komunikaty.pl
+Cojestgrane24.pl
+Nekrologi
+Serwisy partnerskie
+Gazeta.pl
+TOK.fm
+Sport.pl
+Publio.pl
+Kulturalnysklep.pl
+Napisz do redakcji
+Napisz do redakcji
+Kup prenumeratę
+Newsletter
+Copyright © Agora SA
+O nas
+Prywatność
+Licencje/Kontent
+Reklama w Internecie
+Reklama w papierze
+Kontakt
+Zgłoś błąd
+Pomoc
+UZREditor
+htmEOF
+21755068
+Wszystkie artykuły
+singleViewModule
+14142976, [ null ], aggregatorModule
+gemiusHeatMap
