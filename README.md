@@ -20,7 +20,7 @@ curl -d "url=<url page e.g. http://wyborcza.pl>" -X POST http://localhost:8000/a
 
 check details about this url in db
 
-curl -X GET http://localhost:8000/api/pages/<pageid>/
+curl -X GET http://localhost:8000/api/pages/ <pageid> /
 
 ## Text scraper
 start process of scrapping text from url
