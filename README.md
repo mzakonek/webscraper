@@ -2,8 +2,20 @@
 
 REST API for scrapping data (text and images) from websites.
 
-# Installation
-1. Clone this repository: git clone https://github.com/mzakonek/webscraper.git
+# How to run?
+
+1. Clone repository: git clone https://github.com/mzakonek/webscraper.git
+
+## with Docker
+2. go into directory with docker-compose.yml file
+3. run command: docker-compose up --build -d
+4. run command: docker-compose run web /usr/local/bin/python manage.py migrate
+
+In case of problems with accessing Postgres from external ports, check link below:
+https://gist.github.com/MauricioMoraes/87d76577babd4e084cba70f63c04b07d
+
+
+## without Docker
 2. cd into webscraper: cd webscraper
 3. install requirements: pip install -r requirements.txt
 4. run command: python manage.py makemigrations
