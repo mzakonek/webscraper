@@ -1,0 +1,47 @@
+version: '3.1'
+
+services:
+  postgres:
+    container_name: postgres
+    restart: always
+    image: postgres:9.6
+    ports:
+      - "5432"
+    volumes:
+      - postgres_data:/var/lib/postgres/data/
+  redis:
+    restart: always
+    image: "redis:latest"
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+  web:
+    restart: always
+    build: ./webscraper
+    # env_file: .env
+    command: /usr/local/bin/gunicorn webscraper.wsgi:application -w 2 -b :8000
+    volumes:
+      - web_django:/user/src/app
+    environment:
+      DEBUG: 'true'
+    ports:
+      - "8000:8000"
+    links:
+      - postgres:postgres
+      - redis:redis
+  celery:
+    build: ./webscraper
+    command: celery -A webscraper worker -l info
+    volumes:
+      - celery_worker:/celery
+    depends_on:
+      - postgres
+      - redis
+
+volumes:
+  postgres_data:
+  redis_data:
+  web_django:
+  celery_worker:
+

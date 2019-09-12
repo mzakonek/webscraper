@@ -25,7 +25,7 @@ SECRET_KEY = '3arwvu%%3g%*_lv=lmb90wv7rgmdbd*gi5jyalo=vsr!(2htde'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -90,13 +90,13 @@ WSGI_APPLICATION = 'webscraper.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bdimzgjn',
-        'USER': 'bdimzgjn',
-        'PASSWORD': 'EazvJYPA5w5wRdD0G_klym7aeRY-B7Us',
-        'HOST': 'salt.db.elephantsql.com',
-        'PORT': '5432',
-             }
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': "postgres",
+        'USER': "postgres",
+        'PASSWORD': "postgres",
+        'HOST': "postgres",
+        'PORT': 5432
+    }
 }
 
 
@@ -143,8 +143,8 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'webscraper')
 
 # celery
-CELERY_BROKER_URL = 'redis://localhost:6379'
-CELERY_RESULT_BACKEND = 'redis://localhost:6379'
+CELERY_BROKER_URL = 'redis://redis:6379'
+CELERY_RESULT_BACKEND = 'redis://redis:6379'
 CELERY_ACCEPT_CONTENT = ['application/json']
 CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TASK_SERIALIZER = 'json'
